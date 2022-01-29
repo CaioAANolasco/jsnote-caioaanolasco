@@ -1,6 +1,6 @@
 {
 	"name": "jsnote-caioaanolasco",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "",
 	"files": [
 		"dist"
@@ -16,10 +16,10 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"@jsnote-caioaanolasco/local-client": "^1.0.0"
+		"@jsnote-caioaanolasco/local-client": "^1.0.1"
 	},
 	"devDependencies": {
-		"@jsnote-caioaanolasco/local-api": "^1.0.0",
+		"@jsnote-caioaanolasco/local-api": "^1.0.1",
 		"@types/node": "^17.0.12",
 		"commander": "^8.3.0",
 		"esbuild": "0.8.26",
